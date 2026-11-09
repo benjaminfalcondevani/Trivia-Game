@@ -1,0 +1,6 @@
+{
+  "name": "Trivia 001 - Minimalist Adaptive Trivia",
+  "description": "Production-oriented, minimalist single-player trivia application with adaptive difficulty, streak bonuses, curated categories, personal statistics, and editorial administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
